@@ -5,6 +5,7 @@
 # Dark Arduino Theme - Nu
 
 A dark theme for the Arduino IDE - based on [Jeff Thompson's theme](https://github.com/jeffThompson/DarkArduinoTheme)
+
 Works for Arduino version 1.8.13, not tested with newer/older versions.
 
 
