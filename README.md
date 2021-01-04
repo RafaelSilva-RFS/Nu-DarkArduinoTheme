@@ -1,4 +1,5 @@
 
+
 ![screenshot](https://raw.githubusercontent.com/RafaelSilva-RFS/DarkArduinoTheme-Nu/master/screenshot.png)
 
 # Dark Arduino Theme - Nu
@@ -13,16 +14,17 @@ Works for Arduino version 1.8.13, not tested with newer/older versions.
 
 * Windows is located in `C:\Program Files (x86)\Arduino\lib`.
 
-* Linux will be in `/usr/share/arduino/lib/` – note you may need to install the Arduino IDE from the Arduino site, not a place like Ubuntu Software
+* Linux will be in `/usr/share/arduino/lib/` – note you may need to install the Arduino IDE from the Arduino site, not a place like Ubuntu Software.
 
 **OR**
 
-* Download **DarkArduinoTheme.zip**
+* Download [DarkArduinoTheme.zip](https://github.com/RafaelSilva-RFS/DarkArduinoTheme-Nu/blob/main/DarkArduinoTheme-Nu.zip?raw=true)
 
 * Find your Arduino **Sketchbook location**: Arduino IDE > File > Preferences
-Typically on a **Mac** => /home/***user***/Arduino
-Typically on a **Windows** => %HOMEDRIVE%%HOMEPATH%\Documents\Arduino
-This would a sub-folder of your "documents" folder.
+
+> Typically on a **Mac** => `/home/***user***/Arduino`
+
+> Typically on a **Windows** => `%HOMEDRIVE%%HOMEPATH%\Documents\Arduino`
 
 * Go to that location and make new folder **theme**.
 
