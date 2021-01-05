@@ -2,7 +2,7 @@
 
 ![screenshot](https://raw.githubusercontent.com/RafaelSilva-RFS/Nu-DarkArduinoTheme/master/screenshot.png)
 
-# Dark Arduino Theme - Nu
+# Nu Dark Arduino Theme
 
 A dark theme for the Arduino IDE - based on [Jeff Thompson's theme](https://github.com/jeffThompson/DarkArduinoTheme)
 
