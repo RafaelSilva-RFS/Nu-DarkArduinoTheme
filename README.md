@@ -1,6 +1,6 @@
 
 
-![screenshot](https://raw.githubusercontent.com/RafaelSilva-RFS/DarkArduinoTheme-Nu/master/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/RafaelSilva-RFS/Nu-DarkArduinoTheme/master/screenshot.png)
 
 # Dark Arduino Theme - Nu
 
