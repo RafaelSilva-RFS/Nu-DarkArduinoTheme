@@ -6,16 +6,6 @@ A dark theme for the Arduino IDE - based on [Jeff Thompson's theme](https://gith
 
 Works for Arduino version 1.8.13, not tested with newer/older versions.
 
-**Windows10**<br>
-![screenshot](./Screenshots/Arduino-DarkTheme-Windows10.png)
-
-**MacOS**<br>
-![screenshot](./Screenshots/Arduino-DarkTheme-MacOS.png)
-
-**ArchLinux with i3wm**<br>
-![screenshot](./Screenshots/Arduino-DarkTheme-ArchLinuxi3wm.png)
-
-
 ### INSTALLATION
 
 * Mac users should look in `/Applications/Arduino.app/Contents/Java/lib` and replace the `theme` folder inside (making a copy of the original in case want to revert back).
@@ -41,6 +31,17 @@ Works for Arduino version 1.8.13, not tested with newer/older versions.
 * Open Arduino IDE > File > Preferences and select DarkArduinoTheme *x.x* on **Theme:** field.
 
 * Restart Arduino IDE.
+
+### Screenshots
+
+**Windows10**<br>
+![screenshot](./Screenshots/Arduino-DarkTheme-Windows10.png)
+
+**MacOS**<br>
+![screenshot](./Screenshots/Arduino-DarkTheme-MacOS.png)
+
+**ArchLinux with i3wm**<br>
+![screenshot](./Screenshots/Arduino-DarkTheme-ArchLinuxi3wm.png)
 
 \-  \-  \-
 
